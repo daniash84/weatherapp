@@ -34,7 +34,7 @@ THEN I am again presented with current and future conditions for that city
 https://daniash84.github.io/weatherapp/
 
 #### Screenshots
-https://github.com/daniash84/weatherapp/blob/main/screenshots/Screenshot%202023-08-13%20123218.jpg
+![Image] https://github.com/daniash84/weatherapp/blob/main/screenshots/Screenshot%202023-08-13%20123218.jpg
 
 #### Resources:
 youtube.com
